@@ -1,0 +1,2 @@
+# FoodMenu
+A JavaScript project
