@@ -1,3 +1,3 @@
 # FoodMenu
-JavaScript project
+
 
